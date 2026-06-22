@@ -1,1 +1,3 @@
 data/
+# donées sensibles (copie de config.exemple.php)
+config.php
